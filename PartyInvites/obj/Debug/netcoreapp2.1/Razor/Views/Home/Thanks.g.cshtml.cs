@@ -67,12 +67,12 @@ using PartyInvites.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html>");
             EndContext();
             BeginContext(95, 181, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d50d2dd65ede447eb6c7b6b18cdd7090", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2a51bf82116d4463b3895d30e5a898c8", async() => {
                 BeginContext(101, 92, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Thanks</title>\r\n    ");
                 EndContext();
                 BeginContext(193, 74, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f788d55ebda0446ab55b7bc40609d1d6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "959198c6b15a4160b43a41bbe75920c9", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -106,7 +106,7 @@ using PartyInvites.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(278, 462, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b4a864b08d64e37bc89646b2f4d04cc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d5c31cf9e5d64f518aab6bb6a62d1139", async() => {
                 BeginContext(304, 34, true);
                 WriteLiteral("\r\n    <p>\r\n        <h1>Thank you, ");
                 EndContext();
@@ -154,7 +154,7 @@ using PartyInvites.Models;
                 WriteLiteral("    </p>\r\n    <p>Click ");
                 EndContext();
                 BeginContext(647, 58, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93e78ae0473b42b1a29844949b336639", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b3bdd07173ba405087fb185ea75be9a0", async() => {
                     BeginContext(697, 4, true);
                     WriteLiteral("here");
                     EndContext();
